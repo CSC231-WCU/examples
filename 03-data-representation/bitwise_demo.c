@@ -2,7 +2,7 @@
 int main() 
 { 
   // a = 5(00000101), b = 9(00001001) 
-  unsigned char a = 5, b = 9; 
+  unsigned char a = 4, b = 5; 
   printf("Binary of 5: 0000 0101\n");
   printf("Binary of 9: 0000 1001\n");  
 

@@ -5,7 +5,7 @@ int main(int argc, char *argv[]) {
   x = 60000;
   y = 60000;
   z= x + y;
-  printf("%d + %d = %d \n", x, y, z);
+  printf("%d + %d = %u \n", x, y, x + y);
 
   a = 60000;
   b = 60000;
